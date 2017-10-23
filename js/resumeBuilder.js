@@ -12,7 +12,7 @@ This is empty on purpose! Your code to build the resume will go here.
     },
     "welcomeMessage": "Welcome to my interactive resume!",
     "skills": ["Network Planning", "Highly Motivated",
-        "Awesome Person", "Collaborator", "People Person"
+        "Awesome Person", "Collaborator", "Github", "People Person"
     ],
     "biopic": "images/me.jpg",
 };
